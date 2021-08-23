@@ -1,0 +1,11 @@
+body{
+background-color:purple;
+}
+#clock {
+color:black;
+font-size: 65px;
+position: absolute;
+top:50%;
+left:50%;
+transform: translateX(-50%) translateY(-50%);
+}
